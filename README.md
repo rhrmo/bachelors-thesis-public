@@ -1,5 +1,5 @@
 # Analysis Tool README
-To use the tool you need to have at least Python version `3.10`.To use the analysis mode of the tool you first need to uncompress data under folder\GPUs.
+To use the tool you need to have at least Python version `3.10`.To use the analysis mode of the tool you first need to uncompress data under folder\GPUs. To use the testing mode you need to run this tool from the hashcat 6.2.6 repository.
 
 ## Launching the Tool
 Launching the tool is done by using the Windows command line interface. We launch the tool by using python3 `src\main.py`.
