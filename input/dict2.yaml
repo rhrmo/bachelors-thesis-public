@@ -1,0 +1,3 @@
+attack-mode: "dictionary"
+dictionaries: "..\\bachelors-thesis-main\\dictionaries-dict\\test-dic2.dic"
+ruleset: "..\\bachelors-thesis-main\\rules\\ruleset2.rule"

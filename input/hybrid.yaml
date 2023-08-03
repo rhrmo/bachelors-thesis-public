@@ -1,0 +1,8 @@
+attack-mode: "hybrid-a"
+increment: true
+charset: "?1?2?2?2?2?2?2?3?3?3?3?d?d?d?d"
+custom-charsets:
+  charset1: "?l?d?u"
+  charset2: "?l?d"
+  charset3: "?l?d*!$@_"
+dictionaries: "..\\bachelors-thesis-main\\dictionaries\\English.dic"
